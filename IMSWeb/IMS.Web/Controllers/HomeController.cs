@@ -15,7 +15,7 @@ namespace IMS.Web.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "这是关于页面";
 
             return View();
         }
